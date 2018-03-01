@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a2a8ed027ee56848b6c5ce40ef3f569
+timeCreated: 1518537361
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blood: {fileID: 1438343503988456, guid: 1acf3c6144ad3374aa6bf8e3d8ff47fe, type: 2}
+  - water: {fileID: 1438343503988456, guid: 008c015ba1559e44f87125aef46af6f6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
